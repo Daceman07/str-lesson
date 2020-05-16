@@ -3,6 +3,8 @@ package VariablesContinued;
 public class Main {
     public static void main(String[] args) {
 
+        // I'm adding a comment
+
         String name = "OIJIOJIOJOIJIOJFOESIJOFJeoiwjfoisejoiwe";
         System.out.println("String length: " + name.length());
         System.out.println("Forward: ");
